@@ -1,0 +1,182 @@
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/dxfsrt.jpg" group-title="News",CNN
+http://1861340594.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/wt9bly.jpg" group-title="News",BBC WORLD
+https://2d04.janjuaplayer.com:8088/live/BBCWorld_Livenewson/playlist.m3u8?id=69232&pk=210d42f52d39178500aa2425ffbf18d40fb352f0ec4030aa6e4628086a16b6f5
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/6nxhg2.jpg" group-title="News",Channel NewsAsia
+http://livestream.biznetvideo.net/biznet_cna/_definst_/stream_cna/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=jBwkJ22r4Lj7w8TwPnExRcakCgXnRAY9X_mi6PtYpuz9iQbDLx4_VL36Zw2chc-S
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/11t4xuh.jpg" group-title="News",Bloomberg
+http://livestream.biznetvideo.net/biznet_bloomberg/_definst_/stream_bloomberg/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=meLBJvKZ2MYgyG4OstTDVt-oUhu2aH8Gb3hDakN5cyPF68W4lVgSGhvc9xuxO6u5
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xmkg1z.jpg" group-title="News",Al Jazeera
+http://rr2.dens.tv/s/s17/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/72sw7q.jpg" group-title="News",CNBC
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2weid8j.jpg" group-title="News",FOX NEWS
+http://1028107998.rsc.cdn77.org/ls-54548-2/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/nmx45j.jpg" group-title="News",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1grwn.jpg" group-title="News",Euronews
+http://rr2.dens.tv/s/s15/index2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zko0ah.jpg" group-title="International",Al Jazeera Arabic
+http://rr2.dens.tv/s/s16/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rf7bsl.jpg" group-title="International",Arirang
+http://livestream.biznetvideo.net/biznet_arirang/_definst_/stream_arirang/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=8pwO_vKBP7a6lRjhEkxA3pYB87yz_XwLsDu5B1M0NB-WDNuwNlybEKBRJQjCGNND
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/s1i70w.jpg" group-title="International",DW
+http://rr2.dens.tv/s/s26/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/nn9ocz.jpg" group-title="International",TVE
+http://rr2.dens.tv/s/s25/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/v4rseb.jpg" group-title="International",CCTV-4
+http://rr2.dens.tv/s/s19/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2mwuyi8.jpg" group-title="International",KBS Word HD
+http://livestream.biznetvideo.net/biznet_kbs/_definst_/stream_kbs/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=e8N5dNUeeTbs0x6r4yYwDpiFASDaFDbRl2C5PHDXUAnQ1OsOXQfBxK_nCVabeqek
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2dtu1ih.jpg" group-title="International",NHK World HD
+http://rr.dens.tv/h/h23/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/346wzyq.jpg" group-title="International",RT Russia
+http://livestream.biznetvideo.net/biznet_rt/_definst_/stream_rt/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=Etf1_sth-S0fLy23bqSYoBUQBDdzAVad4p7Sr9Uj4P3RxtTY2qEiQd81dLY6Maus
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2uxzt4g.jpg" group-title="International",France 24
+http://rr2.dens.tv/s/s22/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2qs2mfq.jpg" group-title="International",ABC Australia
+http://livestream.biznetvideo.net/biznet_australia/_definst_/stream_australia/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=Q4uUz77dqo05YnU_3JjbIVkiN6-ZMczFLYEAR9HTxrmjaZ5ZmlM6PU_W5E8ateC6
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/14ce9dv.jpg" group-title="International",RTR PLANETA
+http://livestream.biznetvideo.net/biznet_rtp/_definst_/stream_rtp/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=nGQ0Q2bZE_dF2thE9FE9WblspydC1K7YHZ7RtQuy35gMYo06eIo92rJor_hL7Gt8
+
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2mn3q6d.jpg" group-title="Entertainment",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/apis9e.jpg" group-title="Entertainment",SBS-in
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/e0nblx.jpg" group-title="Entertainment",KIX
+http://rr.dens.tv/h/h07/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/9izu2s.jpg" group-title="Entertainment",K DRAMA
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/29wpt7o.jpg" group-title="Entertainment",TV 5 Monde
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10mivs5.jpg" group-title="Entertainment",Zee Cafe
+https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/a1puti.jpg" group-title="Entertainment",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/293iupy.jpg" group-title="Entertainment",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/oaneja.jpg" group-title="Entertainment",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xkni3t.jpg" group-title="Entertainment",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/5zlc39.jpg" group-title="Entertainment",Maleo Channel
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/r2qn2b.jpg" group-title="Entertainment",Klik Musik
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2rfqw7s.jpg" group-title="Movies",Thrill
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2yva3va.jpg" group-title="Movies",Celestial Movies
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cdzc4j.jpg" group-title="Movies",Zee Bioskop
+http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/30lkx3b.jpg" group-title="Movies",Fox Movie Action
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/24d1zcz.jpg" group-title="Movies",&flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11qk1hh.jpg" group-title="Movies",&Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2ykmgev.jpg" group-title="Movies",Sci-Fi
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/mwy2du.jpg" group-title="Kids",Biznet Home Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/24kw1ky.jpg" group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/214vciv.jpg" group-title="Kids",MY Kids
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vkm6b9.jpg" group-title="Kids",NickJr
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hi4he1.jpg" group-title="Kids",Smart Cinema
+http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2pzle7t.jpg" group-title="Kids",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2ebbm93.jpg" group-title="Education",Al Quran Al Kareem
+http://rr2.dens.tv/s/s28/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2aijb6d.jpg" group-title="Education",Rodja TV
+http://rr2.dens.tv/s/s14/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/33ctao5.jpg" group-title="Education",CGTN Documentary
+http://rr2.dens.tv/s/s20/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/919ok0.jpg" group-title="Education",National Geographic
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/15cg2s7.jpg" group-title="Education",Nat Geo Wild
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2j107sy.jpg" group-title="Education",Animal Planet HD World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/i53edt.jpg" group-title="Sports",TVRI Sport-HD
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/14e8n6q.jpg" group-title="Sports",Fox Sports 1
+http://latino-webtv.com:2082/livexd3/101_.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2crwswi.jpg" group-title="Sports",Fox Sports 2
+http://latino-webtv.com:2082/livexd3/103_.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cnto9g.jpg" group-title="Sports",Fox Sports 3
+http://latino-webtv.com:2082/livexd3/109_.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2wdyh77.jpg" group-title="Sports",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/eju5hi.jpg" group-title="Sports",NBA
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/rabx1e.jpg" group-title="Sports",Rai Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/mn01z8.jpg" group-title="Sport",D Sports
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2hygu94.jpg" group-title="Local",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/sq4jn9.jpg" group-title="Local",TV One
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/15dmfiv.jpg" group-title="Local",Metro TV
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/119m23m.jpg" group-title="Local",RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/29qglxt.jpg" group-title="Local",GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/30kzmlc.jpg" group-title="Local",MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/jgta4g.jpg" group-title="Local",iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/qraiqb.jpg" group-title="Local",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2qbswv8.jpg" group-title="Local",Indosiar
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2cmouqc.jpg" group-title="Local",Trans TV
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/if4vpj.jpg" group-title="Local",Trans 7
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/iqj58y.jpg" group-title="Local",SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2eq7tb6.jpg" group-title="Local",Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/p7rk4.jpg" group-title="Local",RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/fncx2g.jpg" group-title="Local",JAK TV
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/dy83de.jpg" group-title="Local",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/qzj4as.jpg" group-title="Local",Berita Satu
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1zn77gy.jpg" group-title="Local",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/71itt2.jpg" group-title="Local",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/1z1yzpv.jpg" group-title="Local",BALI TV
+http://202.80.222.130/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/hvyre9.jpg" group-title="Local",JTV
+http://202.80.222.130/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/28rdr9e.jpg" group-title="Local",NET.
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2rwn4np.jpg" group-title="Local",Biznet Lifestyle HD
+http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2dj5fns.jpg" group-title="Local",Elshinta
+http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/10ftn2q.jpg" group-title="Local",TV9
+http://119.235.249.60:1935/tv9/live/playlist.m3u8
+
