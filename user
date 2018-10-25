@@ -125,8 +125,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/rabx1e.jpg" group-title="Sports",Rai Sport
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/mn01z8.jpg" group-title="Sport",D Sports
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2hygu94.jpg" group-title="Local",TVRI
